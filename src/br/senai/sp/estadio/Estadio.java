@@ -1,3 +1,5 @@
+package br.senai.sp.estadio;
+
 import java.util.Scanner;
 
 public class Estadio {
